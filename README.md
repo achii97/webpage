@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Mindloop Labs
 
-You can use the [editor on GitHub](https://github.com/achii97/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mindloop labs is a indie game studio from Islamabad, Pakistan. Established in 2019, their are currently eight team members for MDLL(Mindloop Labs) team. 
 
 ### Markdown
 
